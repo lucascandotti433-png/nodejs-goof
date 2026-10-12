@@ -212,3 +212,11 @@ snyk wizard
 
 In this application, the default `snyk wizard` answers will fix all the issues.
 When the wizard is done, restart the application and run the exploits again to confirm they are fixed.
+
+d
+
+q2w3tg2qw4e3gtvyw4
+th2w34
+etgy
+23wetgy
+23w
